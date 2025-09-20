@@ -1,0 +1,103 @@
+button,
+.btn,
+.button,
+a {
+	cursor: pointer;
+}
+
+.btn {
+	&.chained {
+		pointer-events: none;
+		opacity: .5;
+	}
+
+	box-sizing: border-box;
+	-webkit-appearance: none;
+	-moz-appearance: none;
+	appearance: none;
+	border-radius: 1.4em;
+	cursor: pointer;
+	font-weight: 400;
+	line-height: 1;
+	text-decoration: none;
+
+	outline: 0;
+	padding: 0.5em 2em;
+	background-size: 400%;
+	background-position: 0;
+	border: none;
+	border: solid 1px @color-white;
+	text-align: center;
+
+	transition: background 300ms ease-in-out,
+	color 300ms ease-in-out;
+	color: @color-white;
+
+	* {
+		transition: background 300ms ease-in-out, color 300ms ease-in-out;
+		color: @color-white;
+		text-align: center;
+		width: 100%;
+	}
+
+	.bg-color-gradient(@color-grey, @color-black-light);
+
+	&:hover {
+		background-position: 100%;
+	}
+}
+
+.btn-pink {
+	.bg-color-gradient(@color-pink, @color-purple);
+}
+
+.btn-red {
+	.bg-color-gradient(@color-red, @color-yellow);
+
+	color: @color-white;
+
+	* {
+		color: @color-white;
+	}
+
+	&:hover {
+		color: @color-purple;
+
+		* {
+			color: @color-purple;
+		}
+
+	}
+}
+
+.btn-blue {
+	.bg-color-gradient(@color-blue, @color-purple);
+}
+
+.btn-yellow {
+	.bg-color-gradient(@color-yellow, @color-pink);
+	color: @color-purple;
+
+	* {
+		color: @color-purple;
+	}
+
+
+	&:hover {
+		color: @color-white;
+
+		* {
+			color: @color-white;
+		}
+
+	}
+
+}
+
+.btn-purple {
+	.bg-color-gradient(@color-purple, @color-red);
+}
+
+.btn-green {
+	.bg-color-gradient(@color-green, @color-blue);
+}

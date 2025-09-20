@@ -1,0 +1,32 @@
+.indicadores {
+	position: absolute;
+	z-index: 2;
+	display: flex;
+	justify-content: flex-end;
+	width: auto;
+	right: 0
+}
+
+.indicador {
+	position: relative;
+	padding: 1em;
+	border: solid 1px red;
+
+	.label {
+		font-size: 1.4em;
+	}
+
+	.progress {
+		position: relative;
+		width: 10em;
+		height: 2em;
+		border: solid 1px blue;
+
+		.bar {
+			width: 50%;
+			height: 100%;
+			background-color: red;
+			transition: all .4s;
+		}
+	}
+}

@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+  xmlns:xlink="http://www.w3.org/1999/xlink" width="136.088" height="129.305" viewBox="0 0 136.088 129.305">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Caminho_87" data-name="Caminho 87" d="M1427.788,1259.335a64.651,64.651,0,1,0,120.071-33.263q-3.961,3.959-7.909,8.689a53.584,53.584,0,1,1-16.022-18.652,97.027,97.027,0,0,1,9.7-6.576,64.62,64.62,0,0,0-105.837,49.8" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" x1="-11.042" y1="83.883" x2="-11.034" y2="83.883" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#117634"/>
+      <stop offset="0.072" stop-color="#117634"/>
+      <stop offset="0.177" stop-color="#117634"/>
+      <stop offset="0.308" stop-color="#117634"/>
+      <stop offset="0.491" stop-color="#117634"/>
+      <stop offset="1" stop-color="#117634"/>
+    </linearGradient>
+    <clipPath id="clip-path-2">
+      <path id="Caminho_88" data-name="Caminho 88" d="M1563.12,1205.838c-27.784.933-53.334,27.808-71.9,54.476a64.124,64.124,0,0,0-19.664-20.461,4.864,4.864,0,0,0-4.62-.454l-5.658,2.409a3.688,3.688,0,0,0-1.707,5.306,415.33,415.33,0,0,1,25.959,49.479,6.6,6.6,0,0,0,12.09-.052c15.7-36.4,38.524-74.947,65.854-89.316a.735.735,0,0,0-.33-1.388h-.029" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-2" x1="-13.791" y1="113.726" x2="-13.781" y2="113.726" xlink:href="#linear-gradient"/>
+  </defs>
+  <g id="Grupo_24" data-name="Grupo 24" transform="translate(-1427.788 -1194.681)">
+    <g id="Grupo_21" data-name="Grupo 21">
+      <g id="Grupo_20" data-name="Grupo 20" clip-path="url(#clip-path)">
+        <rect id="Retângulo_5" data-name="Retângulo 5" width="129.303" height="129.305" transform="translate(1427.788 1194.682)" fill="url(#linear-gradient)"/>
+      </g>
+    </g>
+    <g id="Grupo_23" data-name="Grupo 23">
+      <g id="Grupo_22" data-name="Grupo 22" clip-path="url(#clip-path-2)">
+        <rect id="Retângulo_6" data-name="Retângulo 6" width="105.752" height="95.276" transform="translate(1458.41 1205.837)" fill="url(#linear-gradient-2)"/>
+      </g>
+    </g>
+  </g>
+</svg>

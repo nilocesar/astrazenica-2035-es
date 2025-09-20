@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="88.119" height="88.12" viewBox="0 0 88.119 88.12">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Retângulo_50" data-name="Retângulo 50" width="88.119" height="88.12" transform="translate(0 0)" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Grupo_79" data-name="Grupo 79" transform="translate(0 0)">
+    <rect id="Retângulo_48" data-name="Retângulo 48" width="58.31" height="58.31" transform="translate(2.828 44.06) rotate(-45)" fill="#fff"/>
+    <g id="Grupo_78" data-name="Grupo 78">
+      <g id="Grupo_77" data-name="Grupo 77" clip-path="url(#clip-path)">
+        <rect id="Retângulo_49" data-name="Retângulo 49" width="58.31" height="58.31" transform="translate(2.828 44.06) rotate(-45)" fill="none" stroke="#5d123c" stroke-miterlimit="10" stroke-width="4"/>
+      </g>
+    </g>
+  </g>
+</svg>
