@@ -42,7 +42,7 @@
 
         if(resolucaoMin){
             $(".arrasteInfo").html(
-              "Clique no número e depois no espaço vazio correspondente para relacioná-los."
+              "Haz clic en el número y luego en el espacio vacío correspondiente para relacionarlos."
             );
         }
 
